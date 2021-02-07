@@ -1,0 +1,4 @@
+Romanov 22000
+Tkachenko 1000
+Petrov 14000
+Port 60000
